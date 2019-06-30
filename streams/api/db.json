@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "it",
+      "description": "works",
+      "id": 1
+    },
+    {
+      "title": "colon",
+      "description": "colonly",
+      "id": 3
+    },
+    {
+      "title": "Streamoooooooooooo",
+      "description": "Form",
+      "id": 4
+    }
+  ]
+}
